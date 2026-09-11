@@ -1,0 +1,6 @@
+{
+  "name": "استقدام من بنجلاديش",
+  "description": "استقدام من بنجلاديش للعمالة المهنية والماهرة في مختلف المهن والقطاعات، من عمال المقاولات والمصانع إلى المطاعم والصيانة والنقل والخدمات بالمملكة والخليج.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
